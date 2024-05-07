@@ -1,0 +1,13 @@
+﻿Name,Quantity,Component
+"UArduino",1," Arduino Uno R3"
+"UTMP36",1," Temperature Sensor [TMP36]"
+"PIEZOBuzzer",1," Piezo"
+"RpotPotentiometer1",1,"10 kΩ Potentiometer"
+"ULCD 16x2",1," LCD 16 x 2"
+"SDecrease-btn, SIncrease-btn",2," Pushbutton"
+"RResistance 1 kOhm 1, RResistance 1 kOhm 2",2,"1 kΩ Resistor"
+"RResistance 220 Ohm, RResistance 220 Ohm 1, RResistance 220 Ohm 2, RResistance 220 Ohm 3",4,"220 Ω Resistor"
+"D1",1,"Green LED"
+"D2",1,"Yellow LED"
+"D3",1,"Red LED"
+"RResistance 100 Ohm",1,"100 Ω Resistor"
