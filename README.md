@@ -9,7 +9,7 @@ This project controls a system that monitors temperature using a temperature sen
 - [Usage](#usage)
 - [Acceleration and Deceleration Cycles](#acceleration-and-deceleration-cycles)
 - [Arduino Code Explanation](#arduino-code-explanation)
-- [Note Regarding Practical Demonstration](#Note Regarding Practical Demonstration)
+- [Note Regarding Practical Demonstration](#note-regarding-practical-demonstration)
 - [License](#license)
 - [Credits](#credits)
 
